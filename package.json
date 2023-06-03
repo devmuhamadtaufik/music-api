@@ -1,5 +1,5 @@
 {
-	"name": "music-app",
+	"name": "music-api",
 	"version": "0.1.0",
 	"description": "API music-app",
 	"main": "server.js",
