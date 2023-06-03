@@ -1,16 +1,15 @@
 {
-	"name": "music-api",
-	"version": "0.1.0",
-	"description": "API music-app",
-	"main": "server.js",
-	"scripts": {
-	  "start": "node server.js"
-	},
-	"dependencies": {
-	  "fastify": "^4.17.0"
-	},
-	"engines": {
-	  "node": "16.x"
-	}
+  "name": "music-api",
+  "version": "0.1.0",
+  "description": "API music-app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.17.0"
+  },
+  "engines": {
+    "node": "16.x"
   }
-  
+}

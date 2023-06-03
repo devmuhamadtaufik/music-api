@@ -1,7 +1,11 @@
 const fastify = require("fastify")({ logger: true });
 
 fastify.get("/", async (request, reply) => {
-  return { hello: "ikan" };
+  return "Selamat datang";
+});
+
+fastify.get("/login", async (request, reply) => {
+  return "Login";
 });
 
 async function start() {
