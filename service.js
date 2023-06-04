@@ -1,9 +1,9 @@
 function randomArray(arr) {
-  let newArray = arr.slice(); // Menggunakan slice() untuk membuat salinan array baru
+  let newArray = arr.slice();
 
   for (let i = newArray.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [newArray[i], newArray[j]] = [newArray[j], newArray[i]]; // Menukar posisi elemen menggunakan destructuring assignment
+    [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
   }
 
   return newArray;
