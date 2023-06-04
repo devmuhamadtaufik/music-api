@@ -2,6 +2,8 @@ const musics = require("./statics/musics");
 const fastify = require("fastify")({ logger: true });
 const service = require("./service");
 const fs = require("fs");
+const path = require("path");
+const { log } = require("console");
 
 fastify.addHook("onRequest", (request, reply, done) => {
   reply.header("Access-Control-Allow-Origin", "*");
@@ -14,8 +16,9 @@ fastify.addHook("onRequest", (request, reply, done) => {
 });
 
 fastify.get("/", async (request, reply) => {
-  const html = fs.readFileSync("index.html", "utf8");
-  reply.header("Content-Type", "text/html").send(html);
+  const filePath = path.join(__dirname, "index.html");
+  const htmlContent = fs.readFileSync(filePath, "utf8");
+  reply.header("Content-Type", "text/html").send(htmlContent);
 });
 
 fastify.get("/musics", async () => {
