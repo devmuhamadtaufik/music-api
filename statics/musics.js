@@ -48,7 +48,8 @@ const datas = [
   },
   {
     id: "music-002",
-    music: "https://example.com/music/cupid.mp3",
+    music:
+      "https://firebasestorage.googleapis.com/v0/b/matrik-music.appspot.com/o/music%2Ftomp3.cc%20-%20Cupid.mp3?alt=media&token=df1326e6-4478-43e9-9aaf-d3264ba39fe6&_gl=1*c9kyw3*_ga*MTQwNzc2MjE2OS4xNjg1NDEyNTc5*_ga_CW55HF8NVT*MTY4NTg5MTMwMy4xOC4xLjE2ODU4OTE4MDQuMC4wLjA.",
     lyrics: [
       "불 꺼진 romantic, all my life",
       "내 주위는 온통 lovely day",
@@ -103,13 +104,15 @@ const datas = [
       "Cupid is so dumb (a fool for love, a fool for love)",
     ],
     title: "Cupid",
-    artist: "Ella Baila Sola",
-    image: "https://example.com/images/cupid.jpg",
+    artist: "FIFTY FIFTY",
+    image:
+      "https://lh3.googleusercontent.com/aNYwueKXyXRauPqG7yd2m7ORbu18oJfE41tjt4mk6YkKrgtTlTl_dtD-9Jncl4MSg8xVG5IjAzcoSwI=w544-h544-l90-rj",
     like: false,
   },
   {
     id: "music-003",
-    music: "https://example.com/music/kya-loge-tum.mp3",
+    music:
+      "https://firebasestorage.googleapis.com/v0/b/matrik-music.appspot.com/o/music%2Ftomp3.cc%20-%20Kya%20Loge%20Tum.mp3?alt=media&token=5b0ff6dc-6957-44a5-9f37-1a214cbab192&_gl=1*1n2n0k*_ga*MTQwNzc2MjE2OS4xNjg1NDEyNTc5*_ga_CW55HF8NVT*MTY4NTg5MTMwMy4xOC4xLjE2ODU4OTIwNTQuMC4wLjA.",
     lyrics: [
       "अर्रे दौलत या शोहरत दुआ लोगे तुम",
       "या कोई महल नया लोगे तुम",
@@ -181,13 +184,15 @@ const datas = [
       "क्या लोगे तुम",
     ],
     title: "Kya Loge Tum",
-    artist: "Unknown",
-    image: "https://example.com/images/kya-loge-tum.jpg",
+    artist: "B Praak & Jaani",
+    image:
+      "https://lh3.googleusercontent.com/k0UBB9sGH0AW6TZI4dajyC5XiWiw5VMLERppkFxHLlWNsAiNw4BnEuvXJAbwXRBXGZvhturh62OWmywt=w544-h544-l90-rj",
     like: false,
   },
   {
     id: "music-004",
-    music: "https://example.com/music/la-bebe-remix.mp3",
+    music:
+      "https://firebasestorage.googleapis.com/v0/b/matrik-music.appspot.com/o/music%2Ftomp3.cc%20-%20La%20Bebe%20Remix.mp3?alt=media&token=bd5e1223-1e28-44cc-9dd6-4c6a92b89a03&_gl=1*yxccl4*_ga*MTQwNzc2MjE2OS4xNjg1NDEyNTc5*_ga_CW55HF8NVT*MTY4NTg5MTMwMy4xOC4xLjE2ODU4OTIxMzIuMC4wLjA.",
     lyrics: [
       "Hoy es noche de estar soltera",
       "Le gusta el perreo y bailar de cerca",
@@ -257,13 +262,15 @@ const datas = [
       "Y aun así recuerda que lo hicimo' ayer",
     ],
     title: "La Bebe Remix",
-    artist: "Unknown",
-    image: "https://example.com/images/la-bebe-remix.jpg",
+    artist: "Yng Lvcas & Peso Pluma",
+    image:
+      "https://lh3.googleusercontent.com/i-0UE7zfljTdsNo816mLX2v528i20y34ry_3rNqHZY7O6ZnowZGDXhEgecmL_sp6isLE2aOVskiDLTta=w544-h544-l90-rj",
     like: false,
   },
   {
     id: "music-005",
-    music: "https://example.com/music/light-switch.mp3",
+    music:
+      "https://firebasestorage.googleapis.com/v0/b/matrik-music.appspot.com/o/music%2Ftomp3.cc%20-%20Light%20Switch.mp3?alt=media&token=2891599c-da69-4111-93f7-98eba3908f3c&_gl=1*4ieqx2*_ga*MTQwNzc2MjE2OS4xNjg1NDEyNTc5*_ga_CW55HF8NVT*MTY4NTg5MTMwMy4xOC4xLjE2ODU4OTIxNzEuMC4wLjA.",
     lyrics: [
       "Yeah",
       "Why you callin' at 11:30",
@@ -326,13 +333,15 @@ const datas = [
       "You wanna keep me wantin' you",
     ],
     title: "Light Switch",
-    artist: "Unknown",
-    image: "https://example.com/images/light-switch.jpg",
+    artist: "Charlie Puth",
+    image:
+      "https://lh3.googleusercontent.com/-bOEvKN08Tg0IPfIAo5pK7Jkw727hAGgySGDYR1U2Nqmsn0s8djPE9maQuJZWqLJS-aWyL2LyxeH0Po=w544-h544-l90-rj",
     like: false,
   },
   {
     id: "music-006",
-    music: "https://example.com/music/piyar-farak-wali.mp3",
+    music:
+      "https://firebasestorage.googleapis.com/v0/b/matrik-music.appspot.com/o/music%2Ftomp3.cc%20-%20Piyar%20Farak%20Wali.mp3?alt=media&token=dc31c873-c496-42a9-9f77-d53720c14049&_gl=1*1xbvibl*_ga*MTQwNzc2MjE2OS4xNjg1NDEyNTc5*_ga_CW55HF8NVT*MTY4NTg5MTMwMy4xOC4xLjE2ODU4OTIyMzUuMC4wLjA.",
     lyrics: [
       "Ambyar mak pyar,",
       "Balik kanan bubar jalan",
@@ -390,13 +399,15 @@ const datas = [
       "Mbok gawe babak bundhas.",
     ],
     title: "Piyar Farak Wali",
-    artist: "Unknown",
-    image: "https://example.com/images/piyar-farak-wali.jpg",
+    artist: "Pawan Singh",
+    image:
+      "https://lh3.googleusercontent.com/vTrz3CzT-r1uSa81IJ4u87c1R6lDPT75Or0B5d0KVKhZ8U8jzPe2djcnz3MAlKn3DcyXq58UcicKjGeL=w544-h544-l90-rj",
     like: false,
   },
   {
     id: "music-007",
-    music: "https://example.com/music/senorita.mp3",
+    music:
+      "https://firebasestorage.googleapis.com/v0/b/matrik-music.appspot.com/o/music%2Ftomp3.cc%20-%20Sen%CC%83orita.mp3?alt=media&token=6e90c253-939b-448e-b356-230617bbb859&_gl=1*1e9f6k*_ga*MTQwNzc2MjE2OS4xNjg1NDEyNTc5*_ga_CW55HF8NVT*MTY4NTg5MTMwMy4xOC4xLjE2ODU4OTIzMjguMC4wLjA.",
     lyrics: [
       "I love it when you call me señorita",
       "I wish I could pretend I didn't need ya",
@@ -458,13 +469,15 @@ const datas = [
       "Ooh, you keep me coming for ya",
     ],
     title: "Senorita",
-    artist: "Unknown",
-    image: "https://example.com/images/senorita.jpg",
+    artist: "Shawn Mendes & Camila Cabello",
+    image:
+      "https://lh3.googleusercontent.com/TK-09E9wZOUk84ktqwb-zNBXfnY3Z927d3fpJ3ObwwOyREKzjAQMMYx0pGSjVAAV2zpRJDpDAavlAPSz=w544-h544-l90-rj",
     like: false,
   },
   {
     id: "music-008",
-    music: "https://example.com/music/sunroof.mp3",
+    music:
+      "https://firebasestorage.googleapis.com/v0/b/matrik-music.appspot.com/o/music%2Ftomp3.cc%20-%20Sunroof_320kbps.mp3?alt=media&token=06f4c9cb-1b9e-4906-8f1e-8e302db2bcc1&_gl=1*1k0sh0l*_ga*MTQwNzc2MjE2OS4xNjg1NDEyNTc5*_ga_CW55HF8NVT*MTY4NTg5MTMwMy4xOC4xLjE2ODU4OTIzODMuMC4wLjA.",
     lyrics: [
       "La da la da da, la da da da",
       "La da la da di da da, la da da da da",
@@ -514,13 +527,15 @@ const datas = [
       "La da la da di da",
     ],
     title: "Sunroof",
-    artist: "Unknown",
-    image: "https://example.com/images/sunroof.jpg",
+    artist: "Nicky Youre & dazy",
+    image:
+      "https://lh3.googleusercontent.com/ycWkUrLxkMX_xYBpoKA82FbkLdrDBC-sKP_e9-b84Qk-JNFDdiq2L777JcegI5M5z5C2SZNozPnCosUJ=w544-h544-l90-rj",
     like: false,
   },
   {
     id: "music-009",
-    music: "https://example.com/music/two-moon.mp3",
+    music:
+      "https://firebasestorage.googleapis.com/v0/b/matrik-music.appspot.com/o/music%2Ftomp3.cc%20-%20Two%20Moons.mp3?alt=media&token=6d0736ab-eaa3-4178-b536-c3da9b3915ec&_gl=1*1budzn9*_ga*MTQwNzc2MjE2OS4xNjg1NDEyNTc5*_ga_CW55HF8NVT*MTY4NTg5MTMwMy4xOC4xLjE2ODU4OTI0OTguMC4wLjA.",
     lyrics: [
       "Two moons, I can feel myself start catching on fire",
       "But you knew, yeah, you kept it to yourself, to yourself",
@@ -578,12 +593,14 @@ const datas = [
     ],
     title: "Two Moon",
     artist: "Boy with Uke",
-    image: "https://example.com/images/two-moon.jpg",
+    image:
+      "https://lh3.googleusercontent.com/EfkMT3K05GQM0zYC0LtZW0j9SVj2LKz01piElNYkw6vOwxSt63H580OaTCBcVdaSX7WawqVXhrCi7PZc=w544-h544-l90-rj",
     like: false,
   },
   {
     id: "music-010",
-    music: "https://example.com/music/adol.mp3",
+    music:
+      "https://firebasestorage.googleapis.com/v0/b/matrik-music.appspot.com/o/music%2Ftomp3.cc%20-%20%E3%82%A2%E3%82%A4%E3%83%88%E3%82%99%E3%83%AB.mp3?alt=media&token=138af303-e303-497b-9de8-18482ec2e9fd&_gl=1*l9205n*_ga*MTQwNzc2MjE2OS4xNjg1NDEyNTc5*_ga_CW55HF8NVT*MTY4NTg5MTMwMy4xOC4xLjE2ODU4OTI1NDUuMC4wLjA.",
     lyrics: [
       "Shizumu you ni tokete yuku you ni",
       "Futaridake no sora ga hirogaru yoru ni",
@@ -643,8 +660,9 @@ const datas = [
       "Futari ima, yoru ni kakedashite iku",
     ],
     title: "yoasobi",
-    artist: "Unknown",
-    image: "https://example.com/images/adol.jpg",
+    artist: "YOASOBI",
+    image:
+      "https://lh3.googleusercontent.com/AjWNrfzz6BqjRL5diZ-bPxFqGOsNk20xS6jcqoQWpNGWdch404mDWKVBkl4s9n74aLjXJWgldqm3Dc8=w544-h544-l90-rj",
     like: false,
   },
 ];
